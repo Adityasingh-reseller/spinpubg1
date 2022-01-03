@@ -14,7 +14,7 @@
         url(fonts/pubg.ttf) format("truetype");
 }
 body {
-	background:url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/bg_main.jpg) no-repeat center;
+	background:url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/bg_main.jpg") no-repeat center;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
@@ -32,7 +32,7 @@ body {
 	border: 1px solid #e2c73d;
 }
 .season-img {
-	background:url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventbr.png) no-repeat center center;
+	background:url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventbr.png") no-repeat center center;
 	background-size: 100% 100%;
 	width: 100%;
 	height: 70px;
@@ -90,7 +90,7 @@ body {
 	display:flex;
 }
 .btn-wrapper button {
-    background: url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventin.png) no-repeat center;
+    background: url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventin.png") no-repeat center;
 	background-size: 100% 70%;
 	width: 45%;
 	height: 25%;
@@ -126,7 +126,7 @@ body {
 	outline:none;
 }
 .header {
-    background: url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/banner.jpg) no-repeat center;
+    background: url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/banner.jpg") no-repeat center;
 	background-size: 100% 100%;
     width: 100%;
     height: 300px;
@@ -180,7 +180,7 @@ body {
 	border:none;
 }
 .menu-content-active {
-	background: url(https://raw.githubusercontent.com/jefanya14/pubg-spin-v43/main/s3_tab1.png) no-repeat center;
+	background: url("https://raw.githubusercontent.com/jefanya14/pubg-spin-v43/main/s3_tab1.png") no-repeat center;
 	background-size: 100% 100%;
 	color: #000;
 }
@@ -299,7 +299,7 @@ body {
 	display: block;
 }
 .season-btn {
-	background: url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventin.png) no-repeat center;
+	background: url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/eventin.png") no-repeat center;
 	background-size: 100% 100%;
 	width: 35%;
 	height: auto;
@@ -325,7 +325,7 @@ body {
 	background-color:rgba(0, 0, 0, 0.4);
 }
 .popup-box {
-	background:url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/popup.png) no-repeat center center;
+	background:url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/popup.png") no-repeat center center;
 	background-size:100% 100%;
 	width: 390px;
 	height: auto;
@@ -401,7 +401,7 @@ body {
 	color: silver;
 }
 .popup-btn-active {
-	background: url(https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/start.png) no-repeat center;
+	background: url("https://github.com/Adityasingh-reseller/rewards/blob/main/reward_arcane/images/start.png") no-repeat center;
 	background-size: 100% 100%;
 	position: absolute;
 	right: 15%;
